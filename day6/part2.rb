@@ -1,7 +1,5 @@
 # frozen_string_literal: true
 
-require 'benchmark'
-
 RESET_FISH = 6
 NEW_FISH = 8
 
